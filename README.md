@@ -1,6 +1,4 @@
-# Raghuvaran-Velichala-Git
-
-EPAM_WEEK_1_HOME_TASK
+# EPAM_TASK: 1
 
 1.Introduction to Git and GitHub.
 
